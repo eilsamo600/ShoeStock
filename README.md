@@ -88,14 +88,26 @@ src/main/java/com/
 >
 >        <img width="310" alt="스크린샷 2025-04-04 오전 7 39 32" src="https://github.com/user-attachments/assets/02bdf791-d234-4955-825d-3d9ffacef53f" />
 >
->    - 재고 등록
->        
+>    - 재고 등록  
+>
+>        <img width="180" alt="스크린샷 2025-04-04 오전 7 39 32" src="https://github.com/user-attachments/assets/776403f7-81cb-44cb-b26a-e9d225e555f9" />
+>
+>  <br>
+>  <br>
 >
 > - 색상 관련
 >    - 등록되어 있는 전체 신발 색상 조회
+>
+>         ![스크린샷 2025-04-04 오전 9 23 42](https://github.com/user-attachments/assets/2ea34337-294d-4150-b2f1-bcd09c7b1bb0)
+>
 >    - 색상 조회 (색상, 색상id)
+>
+>         ![스크린샷 2025-04-04 오전 9 24 50](https://github.com/user-attachments/assets/a8151e83-3d0e-47be-bacf-93225f1594ce)
+>
 >    - 색상 등록
 >
+>         ![스크린샷 2025-04-04 오전 9 25 53](https://github.com/user-attachments/assets/aa34f197-fe69-4aa5-be2e-32f7d42e85de)
+
 
 <br>
 <br>
