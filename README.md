@@ -12,7 +12,7 @@ JDBC를 활용한 신발 재고 관리 시스템
 <br>
 
 
-## 👟 주제 선정 - 신발
+## 👟 Subject Selection - Shoes
 <img width="882" alt="스크린샷 2025-04-03 오후 5 38 59" src="https://github.com/user-attachments/assets/32636f48-e15f-492a-b10d-365889cb1a2e" />
 
 - **재고 관리의 복잡성** : 동일한 신발 모델이라도 **색상**과 **사이즈**에 따라 재고가 다르기 때문에 별도의 관리 필요
